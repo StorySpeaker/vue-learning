@@ -1,0 +1,200 @@
+DEBUG 2021-03-22 16:51:21,201 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-03-22 16:51:21,270 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2021-03-22 16:51:21,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: VueLearning.Web.Host.Startup.VueLearningWebHostModule, VueLearning.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: VueLearning.VueLearningWebCoreModule, VueLearning.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,287 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: VueLearning.VueLearningApplicationModule, VueLearning.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: VueLearning.VueLearningCoreModule, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: VueLearning.EntityFrameworkCore.VueLearningEntityFrameworkModule, VueLearning.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:21,295 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2021-03-22 16:51:21,368 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-03-22 16:51:21,368 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-03-22 16:51:21,368 [1    ] o.Configuration.LanguageManagementConfig - Converted VueLearning (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-03-22 16:51:21,368 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-03-22 16:51:21,753 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: VueLearning.EntityFrameworkCore.VueLearningDbContext, VueLearning.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-03-22 16:51:22,653 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2021-03-22 16:51:22,727 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-03-22 16:51:22,783 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2021-03-22 16:51:22,839 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: VueLearning
+DEBUG 2021-03-22 16:51:22,881 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-03-22 16:51:23,092 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-03-22 16:51:23,225 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[VueLearning.MultiTenancy.Tenant, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[VueLearning.Authorization.Users.User, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2021-03-22 16:51:23,274 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2021-03-22 16:51:23,274 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2021-03-22 16:51:23,280 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Users.Dto.CreateUserDto
+DEBUG 2021-03-22 16:51:23,280 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Users.Dto.UserDto
+DEBUG 2021-03-22 16:51:23,281 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2021-03-22 16:51:23,281 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Sessions.Dto.UserLoginInfoDto
+DEBUG 2021-03-22 16:51:23,281 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.Roles.Dto.PermissionDto
+DEBUG 2021-03-22 16:51:23,281 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2021-03-22 16:51:23,281 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - VueLearning.MultiTenancy.Dto.TenantDto
+INFO  2021-03-22 16:51:27,710 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,zh-Hans,ja
+INFO  2021-03-22 16:51:27,992 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+WARN  2021-03-22 16:51:28,037 [1    ] Microsoft.AspNetCore.Server.Kestrel      - Overriding address(es) 'http://localhost:21021/'. Binding to endpoints defined in UseKestrel() instead.
+INFO  2021-03-22 16:51:31,101 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2021-03-22 16:51:31,301 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Web.Host.Controllers.HomeController.Index (VueLearning.Web.Host)'
+INFO  2021-03-22 16:51:35,390 [4    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller VueLearning.Web.Host.Controllers.HomeController (VueLearning.Web.Host).
+INFO  2021-03-22 16:51:36,762 [15   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2021-03-22 16:51:36,773 [15   ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Web.Host.Controllers.HomeController.Index (VueLearning.Web.Host) in 1374.8118ms
+INFO  2021-03-22 16:51:36,775 [15   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Web.Host.Controllers.HomeController.Index (VueLearning.Web.Host)'
+INFO  2021-03-22 16:51:36,786 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5687.3968ms 302 
+INFO  2021-03-22 16:51:36,809 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2021-03-22 16:51:36,839 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 30.4603ms 301 
+INFO  2021-03-22 16:51:36,843 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2021-03-22 16:51:36,890 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 47.5451ms 200 text/html;charset=utf-8
+INFO  2021-03-22 16:51:36,934 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2021-03-22 16:51:36,943 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2021-03-22 16:51:36,948 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2021-03-22 16:51:36,957 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2021-03-22 16:51:36,960 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2021-03-22 16:51:36,983 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'D:\TestRepos\aspnet-core\src\VueLearning.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2021-03-22 16:51:36,983 [15   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'D:\TestRepos\aspnet-core\src\VueLearning.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2021-03-22 16:51:36,986 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 25.2336ms 200 application/javascript
+INFO  2021-03-22 16:51:36,988 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 37.1396ms 200 application/javascript
+INFO  2021-03-22 16:51:37,005 [15   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2021-03-22 16:51:37,007 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2021-03-22 16:51:37,013 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2021-03-22 16:51:37,016 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 66.7278ms 200 application/javascript
+INFO  2021-03-22 16:51:37,019 [14   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 81.3773ms 200 text/css
+INFO  2021-03-22 16:51:37,022 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 78.0775ms 200 application/javascript
+INFO  2021-03-22 16:51:37,230 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2021-03-22 16:51:37,242 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Web.Host.Controllers.AntiForgeryController.SetCookie (VueLearning.Web.Host)'
+INFO  2021-03-22 16:51:37,264 [4    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller VueLearning.Web.Host.Controllers.AntiForgeryController (VueLearning.Web.Host).
+INFO  2021-03-22 16:51:37,289 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2021-03-22 16:51:37,367 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:51:37,503 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 214.1449ms 200 application/json;charset=utf-8
+INFO  2021-03-22 16:51:37,538 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Web.Host.Controllers.AntiForgeryController.SetCookie (VueLearning.Web.Host) in 271.7921ms
+INFO  2021-03-22 16:51:37,540 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Web.Host.Controllers.AntiForgeryController.SetCookie (VueLearning.Web.Host)'
+INFO  2021-03-22 16:51:37,543 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 313.4717ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:35,771 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-03-22 16:54:35,782 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:35,786 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 15.0777ms 204 
+INFO  2021-03-22 16:54:35,788 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-03-22 16:54:35,791 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:35,798 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-03-22 16:54:35,810 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2021-03-22 16:54:36,881 [5    ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:36,934 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 1121.3588ms
+INFO  2021-03-22 16:54:36,935 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-03-22 16:54:36,937 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1149.4068ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:36,955 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-03-22 16:54:36,957 [4    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:36,959 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.9982ms 204 
+INFO  2021-03-22 16:54:36,965 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-03-22 16:54:36,967 [8    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:36,970 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application)'
+INFO  2021-03-22 16:54:36,978 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[VueLearning.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller VueLearning.Sessions.SessionAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:37,050 [8    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:37,067 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application) in 87.4371ms
+INFO  2021-03-22 16:54:37,070 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application)'
+INFO  2021-03-22 16:54:37,072 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 106.8155ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:39,648 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/TokenAuth/Authenticate  
+INFO  2021-03-22 16:54:39,651 [8    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:39,654 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5.9137ms 204 
+INFO  2021-03-22 16:54:39,657 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json;charset=UTF-8 73
+INFO  2021-03-22 16:54:39,660 [8    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:39,664 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Controllers.TokenAuthController.Authenticate (VueLearning.Web.Core)'
+INFO  2021-03-22 16:54:39,682 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[VueLearning.Models.TokenAuth.AuthenticateResultModel] Authenticate(VueLearning.Models.TokenAuth.AuthenticateModel) on controller VueLearning.Controllers.TokenAuthController (VueLearning.Web.Core).
+INFO  2021-03-22 16:54:40,745 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:40,750 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Controllers.TokenAuthController.Authenticate (VueLearning.Web.Core) in 1065.9602ms
+INFO  2021-03-22 16:54:40,753 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Controllers.TokenAuthController.Authenticate (VueLearning.Web.Core)'
+INFO  2021-03-22 16:54:40,755 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1098.0549ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:40,989 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-03-22 16:54:40,992 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:40,995 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 6.4362ms 204 
+INFO  2021-03-22 16:54:40,998 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-03-22 16:54:41,004 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:41,048 [9    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:41,259 [17   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-03-22 16:54:41,263 [17   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2021-03-22 16:54:41,581 [17   ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:41,585 [17   ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 319.2328ms
+INFO  2021-03-22 16:54:41,588 [17   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-03-22 16:54:41,591 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 592.7766ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:41,610 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-03-22 16:54:41,613 [8    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:41,616 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.9622ms 204 
+INFO  2021-03-22 16:54:41,620 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-03-22 16:54:41,623 [8    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:41,629 [8    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:41,632 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application)'
+INFO  2021-03-22 16:54:41,642 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[VueLearning.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller VueLearning.Sessions.SessionAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:41,738 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:41,742 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application) in 98.2659ms
+INFO  2021-03-22 16:54:41,743 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Sessions.SessionAppService.GetCurrentLoginInformations (VueLearning.Application)'
+INFO  2021-03-22 16:54:41,745 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 126.5786ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:52,595 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:52,599 [10   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:52,601 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2021-03-22 16:54:52,604 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:52,607 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.5673ms 204 
+INFO  2021-03-22 16:54:52,611 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.1915ms 204 
+INFO  2021-03-22 16:54:52,613 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:52,616 [10   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:52,618 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2021-03-22 16:54:52,622 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:52,624 [10   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:52,627 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Users.UserAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:52,631 [9    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:52,635 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Users.UserAppService.GetRoles (VueLearning.Application)'
+INFO  2021-03-22 16:54:52,643 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoles", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.ListResultDto`1[VueLearning.Roles.Dto.RoleDto]] GetRoles() on controller VueLearning.Users.UserAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:52,652 [10   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[VueLearning.Users.Dto.UserDto]] GetAllAsync(VueLearning.Users.Dto.PagedUserResultRequestDto) on controller VueLearning.Users.UserAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:53,024 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:53,035 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Users.UserAppService.GetRoles (VueLearning.Application) in 389.4652ms
+INFO  2021-03-22 16:54:53,037 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Users.UserAppService.GetRoles (VueLearning.Application)'
+INFO  2021-03-22 16:54:53,040 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 422.9602ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:53,188 [17   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:53,197 [17   ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Users.UserAppService.GetAllAsync (VueLearning.Application) in 543.002ms
+INFO  2021-03-22 16:54:53,199 [17   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Users.UserAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:53,201 [17   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 590.5857ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:53,999 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAll?keyword=&maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:54,001 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/getAllPermissions  
+INFO  2021-03-22 16:54:54,004 [4    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:54,006 [11   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:54,011 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.5017ms 204 
+INFO  2021-03-22 16:54:54,012 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.1277ms 204 
+INFO  2021-03-22 16:54:54,019 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAll?keyword=&maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:54,021 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/getAllPermissions  
+INFO  2021-03-22 16:54:54,023 [20   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:54,024 [11   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:54,033 [11   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:54,036 [20   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:54,038 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Roles.RoleAppService.GetAllPermissions (VueLearning.Application)'
+INFO  2021-03-22 16:54:54,040 [20   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.Roles.RoleAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:54,052 [11   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllPermissions", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.ListResultDto`1[VueLearning.Roles.Dto.PermissionDto]] GetAllPermissions() on controller VueLearning.Roles.RoleAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:54,054 [20   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[VueLearning.Roles.Dto.RoleDto]] GetAllAsync(VueLearning.Roles.Dto.PagedRoleResultRequestDto) on controller VueLearning.Roles.RoleAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:54,362 [18   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:54,369 [18   ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Roles.RoleAppService.GetAllPermissions (VueLearning.Application) in 314.2461ms
+INFO  2021-03-22 16:54:54,371 [18   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Roles.RoleAppService.GetAllPermissions (VueLearning.Application)'
+INFO  2021-03-22 16:54:54,374 [18   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 354.8176ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:54,475 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:54,478 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.Roles.RoleAppService.GetAllAsync (VueLearning.Application) in 422.5977ms
+INFO  2021-03-22 16:54:54,481 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.Roles.RoleAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:54,483 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 464.1787ms 200 application/json; charset=utf-8
+INFO  2021-03-22 16:54:55,254 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Tenant/GetAll?keyword=&maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:55,256 [10   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:55,260 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.8033ms 204 
+INFO  2021-03-22 16:54:55,262 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Tenant/GetAll?keyword=&maxResultCount=10&skipCount=0  
+INFO  2021-03-22 16:54:55,265 [10   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-03-22 16:54:55,271 [10   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-03-22 16:54:55,274 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'VueLearning.MultiTenancy.TenantAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:55,289 [10   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Tenant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[VueLearning.MultiTenancy.Dto.TenantDto]] GetAllAsync(VueLearning.MultiTenancy.Dto.PagedTenantResultRequestDto) on controller VueLearning.MultiTenancy.TenantAppService (VueLearning.Application).
+INFO  2021-03-22 16:54:55,692 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-03-22 16:54:55,700 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action VueLearning.MultiTenancy.TenantAppService.GetAllAsync (VueLearning.Application) in 408.1828ms
+INFO  2021-03-22 16:54:55,702 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'VueLearning.MultiTenancy.TenantAppService.GetAllAsync (VueLearning.Application)'
+INFO  2021-03-22 16:54:55,704 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 441.9741ms 200 application/json; charset=utf-8
+DEBUG 2021-03-22 16:54:59,999 [2    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2021-03-22 16:55:00,001 [2    ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-03-22 16:55:00,001 [2    ] , Culture=neutral, PublicKeyToken=null]] - Stop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[VueLearning.MultiTenancy.Tenant, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[VueLearning.Authorization.Users.User, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2021-03-22 16:55:00,002 [2    ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-03-22 16:55:00,002 [2    ] , Culture=neutral, PublicKeyToken=null]] - WaitToStop background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[VueLearning.MultiTenancy.Tenant, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[VueLearning.Authorization.Users.User, VueLearning.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2021-03-22 16:55:00,002 [2    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
