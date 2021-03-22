@@ -11,9 +11,9 @@ COPY ["src/VueLearning.Web.Core/", "VueLearning.Web.Core/"]
 COPY ["src/VueLearning.Application/", "VueLearning.Application/"]
 COPY ["src/VueLearning.Core/", "VueLearning.Core/"]
 COPY ["src/VueLearning.EntityFrameworkCore/", "VueLearning.EntityFrameworkCore/"]
-RUN dotnet restore "src/VueLearning.Web.Host/VueLearning.Web.Host.csproj" -s https://api.nuget.org/v3/index.json
+RUN dotnet restore "VueLearning.Web.Host/VueLearning.Web.Host.csproj" -s https://api.nuget.org/v3/index.json
 COPY . .
-WORKDIR "/src/src/VueLearning.Web.Host"
+WORKDIR "/src/VueLearning.Web.Host"
 RUN dotnet build "VueLearning.Web.Host.csproj" -c Release -o /app/build
 
 FROM build AS publish
